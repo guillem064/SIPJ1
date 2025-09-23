@@ -16,10 +16,10 @@ https://mireiaconsarnau.github.io/machine_learning/
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+<a href="https://guillem064.github.io/SIPJ1/">Sprints Sistemes</a> © 2025 by <a href="https://github.com/guillem064">Guillem Artigues Lleixà</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 
 ---
 
-© 2025 Mireia Consarnau
+© 2025 Guillem Artigues Lleixà
 
