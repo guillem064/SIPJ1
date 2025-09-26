@@ -7,11 +7,14 @@ title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sisteme
 
 ## Virtualització i instal·lació del SP Ubuntu
 ### Llicenciament
-<img width="608" height="111" alt="image" src="https://github.com/user-attachments/assets/a9561285-a543-460f-bd1a-831d5ca56124" />
+Ubuntu té aquestes llicencies instalades
+<img width="608" height="111" alt="image" src="https://github.com/user-attachments/assets/380f2676-95ff-4eef-82c0-4b1a84b336d9" />
+
 
 ## Instal·lacions duals i Gestors d'arrencada
 ## Particions i punts de restauració
 ## Condifuració basica de la xarxa
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
