@@ -32,8 +32,9 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 
 
 ## Particions i punts de restauració
-## Condifuració basica de la xarxa
+## Configuració basica de la xarxa
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
 
