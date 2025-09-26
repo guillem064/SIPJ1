@@ -24,7 +24,6 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 [instalacio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/47e6f703-ea83-4af9-b868-1a1fd4d67626" />
 [particio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/3279573f-49f0-4fe4-b9f6-36e93bbe3560" />
 [particio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/19850552-c901-411e-a091-52bec645bd48" />
-[particio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/a25ad7ba-76c7-4adb-bdde-832d3dc3bee9" />
 [particio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/9171d270-3898-4c3d-aa51-a3f3bf247852" />
 [particio]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/d7701698-dc22-49e2-986d-069593f9c8c8" />
 
@@ -33,6 +32,7 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 ## Particions i punts de restauració
 ## Condifuració basica de la xarxa
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
 
