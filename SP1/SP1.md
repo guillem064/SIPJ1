@@ -40,6 +40,21 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 
 [instalacio final]<img width="1278" height="820" alt="image" src="https://github.com/user-attachments/assets/632711b9-86a4-4f67-9ca9-609b510a86c1" />
 
+.[parametres]<img width="91" height="62" alt="image" src="https://github.com/user-attachments/assets/58fcec61-54f8-4859-842b-a087906b9a40" />
+
+.[Sistema]<img width="126" height="35" alt="image" src="https://github.com/user-attachments/assets/dc02d7dd-d927-4a3d-bef0-0ef807972dff" />
+
+.[activem el EFI especial]<img width="264" height="25" alt="image" src="https://github.com/user-attachments/assets/6895a2b2-2169-47cc-959c-0712dc7ff7f8" />
+
+.[Emmagatzematge]<img width="187" height="43" alt="image" src="https://github.com/user-attachments/assets/fa908ed2-4b05-494f-9c3b-e33602c9dc88" />
+
+.[Introduim ISO windows]<img width="676" height="293" alt="image" src="https://github.com/user-attachments/assets/23a2766f-5de1-4a49-9cf1-b8d28a2a0110" />
+
+.[Instal·lació windows3]<img width="1025" height="792" alt="image" src="https://github.com/user-attachments/assets/c8f458c8-e079-4035-8dba-7c4c5115cfee" />
+
+.[Instal·lació Windows4]<img width="1025" height="792" alt="image" src="https://github.com/user-attachments/assets/e8e70ada-dadf-49c4-a8b3-ed3c0e9120da" />
+
+
 
 ## Particions i punts de restauració
 [restauració]<img width="285" height="106" alt="Captura de pantalla de 2025-10-10 11-48-27" src="https://github.com/user-attachments/assets/9d5bb376-7b6c-40cf-b5ec-9cce9ce792a7" />
@@ -100,10 +115,8 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 [xarxa]<img width="711" height="131" alt="Captura de pantalla de 2025-10-17 12-20-57" src="https://github.com/user-attachments/assets/ed41d508-b240-4341-960f-087a2b40c654" />
 
 
-
-
-
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
 
