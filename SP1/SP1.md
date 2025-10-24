@@ -54,6 +54,40 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 
 .[Instal·lació Windows4]<img width="1025" height="792" alt="image" src="https://github.com/user-attachments/assets/e8e70ada-dadf-49c4-a8b3-ed3c0e9120da" />
 
+.[Instal·lació windows5]<img width="1025" height="792" alt="image" src="https://github.com/user-attachments/assets/a0a783ca-352d-48a8-b7ed-7327d13bb7c7" />
+
+.[supergrub]<img width="886" height="549" alt="image" src="https://github.com/user-attachments/assets/2b73cc6e-b3dc-49c9-95fe-9ba8b74fce2b" />
+
+.[entrem a la BIOS apretant esc]<img width="886" height="549" alt="image" src="https://github.com/user-attachments/assets/68a72602-a266-4e9d-9c6b-36cbd37a743a" />
+
+<img width="886" height="549" alt="image" src="https://github.com/user-attachments/assets/32671447-321d-4355-81e3-637ae6db1b9f" />
+
+<img width="886" height="549" alt="image" src="https://github.com/user-attachments/assets/036de9d3-26ef-4e8c-9fcc-a75033e9300b" />
+
+<img width="747" height="439" alt="image" src="https://github.com/user-attachments/assets/1ead829d-b70d-476e-aeba-da3fc0dac5fd" />
+
+<img width="747" height="439" alt="image" src="https://github.com/user-attachments/assets/af0ca5da-6dad-442c-9440-cb96b1327a7d" />
+
+<img width="747" height="439" alt="image" src="https://github.com/user-attachments/assets/b770e2aa-2f58-4ba6-81f2-70dfe41fdbe2" />
+
+<img width="747" height="439" alt="image" src="https://github.com/user-attachments/assets/bc143ea6-72d3-4614-8668-d6d1d3016325" />
+
+<img width="733" height="61" alt="image" src="https://github.com/user-attachments/assets/5ebe8b04-6c95-4448-9b5a-2c020c6d7a2c" />
+
+<img width="742" height="53" alt="image" src="https://github.com/user-attachments/assets/7f4d4ecc-e611-4e1f-84f5-0a8f3bf5568b" />
+
+<img width="755" height="79" alt="image" src="https://github.com/user-attachments/assets/c14a80d0-ae05-4636-aeb5-4a15f09b045d" />
+
+<img width="755" height="79" alt="image" src="https://github.com/user-attachments/assets/6e1ac17f-7aca-4303-9959-937e1f95c2a5" />
+
+<img width="756" height="332" alt="image" src="https://github.com/user-attachments/assets/b4511d29-2682-43fc-8818-394529f85a02" />
+
+<img width="259" height="69" alt="image" src="https://github.com/user-attachments/assets/c1c67c52-c4c3-40d2-91aa-77fd19eaea6d" />
+
+<img width="362" height="108" alt="image" src="https://github.com/user-attachments/assets/643f6b1b-b96c-4ce7-a564-ed341ac82e24" />
+
+
+
 
 
 ## Particions i punts de restauració
@@ -116,6 +150,7 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 
 
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
 
