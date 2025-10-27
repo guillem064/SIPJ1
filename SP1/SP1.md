@@ -1,10 +1,3 @@
----
-
-layout: default
-title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
-
----
-
 ## Virtualització i instal·lació del SP Ubuntu
 ### Llicenciament
 Ubuntu té aquestes llicencies instalades
@@ -150,6 +143,7 @@ Tambe hi han més llicencies com MPL, Apache-2.0, BSD, Artistic, etc.
 
 
 ## Comandes generals i instal·lació d'aplicacions
+
 
 
 
