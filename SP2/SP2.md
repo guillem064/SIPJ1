@@ -1,4 +1,4 @@
-# Sistemes de fitxer i particions**
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/b1f9c85a-33ad-4463-9e4e-67409685a3d2" /># Sistemes de fitxer i particions**
 ## Mida del sector
   Un sector es l'unitat minima fisica on es guarden les dades al disc 512by, aquesta mida no es pot modifica.
   Un block es l'unitat minima logica com es guarden les dades a nivell de sistema operatiu per defecte só 4096by, aquesta mida es pot modificar quan formategem la particio.
@@ -50,9 +50,35 @@ Part practica
 <img width="740" height="431" alt="image" src="https://github.com/user-attachments/assets/4d6c0d0f-4dd1-4650-95db-42e44065049e" />
 
 
+<img width="614" height="31" alt="image" src="https://github.com/user-attachments/assets/7d22885f-2ca6-4a80-bfd3-eb4d2bc3d60f" />
+Aqui tenim el nostre usuari
+nom:contrasenya en un altre fitxer:id_usuari:id_grup_principal:
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/62ac8799-9887-420f-82b6-9d2ddc746272" />
+<img width="729" height="37" alt="image" src="https://github.com/user-attachments/assets/e3914e88-1ba7-4aae-bf4c-4ba60b113dcc" />
 
+Grups
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/00e8ff6d-d45d-4a19-b4fc-dfda968fd7e9" />
 
+Shadow
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/d1692a81-0b0f-4a9d-a020-2e483989f3c8" />
+<img width="729" height="37" alt="image" src="https://github.com/user-attachments/assets/9cb74f88-2925-48c0-a890-c46fece40230" />
 
+Gshadow
+<img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/4ed91578-a0cb-45cb-8c38-da9532561255" />
+<img width="117" height="25" alt="image" src="https://github.com/user-attachments/assets/4510adda-2046-4ade-ab6d-e07c977ed360" />
+
+Usuari nou creat
+<img width="737" height="427" alt="image" src="https://github.com/user-attachments/assets/a49923b8-7afc-4824-9027-4431eb6edd27" />
+info nou usuari
+<img width="727" height="132" alt="image" src="https://github.com/user-attachments/assets/0876c39e-6cc1-4545-a699-9b3fad4dda7f" />
+
+Per a que se li crein les carpetes al usuari primer haurem d'accedir a la conta per interficie grafica, despres si tornem a l'usuari
+admin podrem veure totes les carpetes noves creades al nou usuari.
+<img width="734" height="116" alt="image" src="https://github.com/user-attachments/assets/f5ed1fe9-798f-49ed-9928-58e69d206a65" />
+
+Ususari creat en useradd
+<img width="580" height="327" alt="image" src="https://github.com/user-attachments/assets/ed6ce22f-b387-48a6-a1e9-49a302d0e82d" />
+<img width="580" height="327" alt="image" src="https://github.com/user-attachments/assets/3d0a7873-0c2b-4f19-8f7f-c47d83de4684" />
 
 
 
@@ -62,4 +88,5 @@ Part practica
 # Còpies de seguretat i automatització de tasques
 # Gestió d'usuaris, grups i permisos
 # Gestió de procesos
+
 
