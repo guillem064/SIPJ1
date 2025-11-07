@@ -80,7 +80,71 @@ Ususari creat en useradd
 <img width="580" height="327" alt="image" src="https://github.com/user-attachments/assets/ed6ce22f-b387-48a6-a1e9-49a302d0e82d" />
 <img width="580" height="327" alt="image" src="https://github.com/user-attachments/assets/3d0a7873-0c2b-4f19-8f7f-c47d83de4684" />
 
+Borrem usuari
+<img width="513" height="42" alt="image" src="https://github.com/user-attachments/assets/1485a96a-febb-4945-bd9d-ee5e2f48cfb6" />
+<img width="512" height="115" alt="image" src="https://github.com/user-attachments/assets/1e57ad19-94a0-4c51-adb0-78b56c504d11" />
+Com podem veure hem borrat l'usuari pero la carpeta continua aqui hauriem de borrar la carpeta nosaltres.
 
+<img width="512" height="115" alt="image" src="https://github.com/user-attachments/assets/6d7baa00-481c-4a70-acab-03a5a03da95f" />
+
+Bloquejar usuari
+<img width="737" height="136" alt="image" src="https://github.com/user-attachments/assets/f2dc01bf-b229-4f39-b15f-7fd91b59ec49" />
+Amb la comanda de usermod -L (usuari) es bloqueja el usuari que posem la diferencia es l'exclamacio de davant del grep de shadow
+
+Desbloquejar usuari
+<img width="737" height="136" alt="image" src="https://github.com/user-attachments/assets/03d4497f-f44b-4506-aa10-f0a8d2f9880c" />
+
+Crear grup
+<img width="715" height="60" alt="image" src="https://github.com/user-attachments/assets/6420484a-ea3a-4ca7-bf3b-925426d9d6bf" />
+<img width="706" height="23" alt="image" src="https://github.com/user-attachments/assets/29a558ad-55fd-4e90-b65a-82f75548fe95" />
+<img width="709" height="46" alt="image" src="https://github.com/user-attachments/assets/498803a2-62c9-4861-87fe-13621d206f15" />
+
+Afegig usuaris al grup
+Hi han 3 maneres d'afegir usuaris
+<img width="699" height="201" alt="image" src="https://github.com/user-attachments/assets/aaa3cba2-173a-481b-bc3d-6882d9d3c09a" />
+
+Treure usuaris de grups
+Hi han dos maneres
+<img width="699" height="201" alt="image" src="https://github.com/user-attachments/assets/caf33266-c265-4f3b-b868-5be3eb62d31a" />
+
+Modificar el grup principal del usuari
+<img width="555" height="112" alt="image" src="https://github.com/user-attachments/assets/2d99b194-d4f3-4c81-9e02-c81ae926d525" />
+
+Comanda per a saber a quins grups pertany el usuari
+<img width="599" height="77" alt="image" src="https://github.com/user-attachments/assets/6c16173e-c758-4280-934c-e8b417264b5f" />
+
+No es poden borrar grups que haguin usuaris que el tinguin com a grup principal pero si que es poden borrar els grups encara que higuin usuaris que estiguin dins del grup no es borra l'usuari nomes el grup.
+<img width="588" height="115" alt="image" src="https://github.com/user-attachments/assets/6035dda1-2ce1-4eaa-8ed8-572ba7a2fa6a" />
+
+Arxius ocults començen en nomes un punt
+<img width="587" height="155" alt="image" src="https://github.com/user-attachments/assets/45fcfe9f-9c41-47a0-be19-5dc8391988ff" />
+
+El /etc/skel s'utilitza per a modificar els fitxers dels usuaris quan es creen
+Aqui podem observar que he creat uns fitxers al skel per a que quan crei usuaris tambe es crein aquests fitxers
+<img width="594" height="205" alt="image" src="https://github.com/user-attachments/assets/24abc90f-d88d-41c3-8669-cdd3166933b8" />
+Modifiquem el arxiu /etc/adduser.conf i fem els canvis del fitxer de home del usuari i el id dels users i grups
+<img width="133" height="34" alt="image" src="https://github.com/user-attachments/assets/e05a00d0-e498-463b-9f7f-bc74b96fd803" />
+<img width="239" height="178" alt="image" src="https://github.com/user-attachments/assets/47cca618-2d57-412a-8277-bde3eaf1be3f" />
+<img width="152" height="102" alt="image" src="https://github.com/user-attachments/assets/2c141100-7d32-4cae-880f-1f1542f7d669" />
+
+
+Entrem al fitxer /etc/login.defs i canviem la configuracio de les contrasenyes
+<img width="188" height="61" alt="image" src="https://github.com/user-attachments/assets/f552cad2-5f7f-4390-a342-ef1616beb06e" />
+
+Entrem al fitxer /etc/default/useradd per acanviar nomes la comanda useradd i canviem que quan crei un usuari la shell sigui bash en contes de sh
+<img width="188" height="61" alt="image" src="https://github.com/user-attachments/assets/5bf01aa4-354a-4da3-b335-34653fae7855" />
+
+Han funcionat tots els canvis que he fet
+<img width="911" height="628" alt="image" src="https://github.com/user-attachments/assets/42b2dee4-cfe8-4c21-a76a-f34d8b9a10b8" />
+
+Editem el fitxer .profile
+<img width="153" height="25" alt="image" src="https://github.com/user-attachments/assets/dd915282-9407-4291-9fcd-1bac8b6da98d" />
+
+Canviem que al apagar l'ordenador es borrin les imatges dels usuaris
+<img width="709" height="209" alt="image" src="https://github.com/user-attachments/assets/436b3b71-4346-4008-abd6-4c08d5314870" />
+
+Creem un fitxer a imatges i resetejem per a comprovar que funcioni el que hem canviat
+<img width="797" height="130" alt="image" src="https://github.com/user-attachments/assets/ede44793-ea56-47d8-a0a6-7a12dfc6e668" />
 
 
 
@@ -88,5 +152,6 @@ Ususari creat en useradd
 # Còpies de seguretat i automatització de tasques
 # Gestió d'usuaris, grups i permisos
 # Gestió de procesos
+
 
 
