@@ -15,6 +15,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-### [Sprint 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](SP1/sp1.md)  
-### [Sprint 2. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](SP2/sp2.md)  
+### [Sprint 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](SP1/SP1.md)  
+### [Sprint 2. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](SP2/SP2.md)  
 
