@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Curso de Machine Learning"
+---
+
 <img width="736" height="449" alt="image" src="https://github.com/user-attachments/assets/b1f9c85a-33ad-4463-9e4e-67409685a3d2" /># Sistemes de fitxer i particions**
 ## Mida del sector
   Un sector es l'unitat minima fisica on es guarden les dades al disc 512by, aquesta mida no es pot modifica.
@@ -152,6 +157,7 @@ Creem un fitxer a imatges i resetejem per a comprovar que funcioni el que hem ca
 # Còpies de seguretat i automatització de tasques
 # Gestió d'usuaris, grups i permisos
 # Gestió de procesos
+
 
 
 
