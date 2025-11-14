@@ -151,12 +151,19 @@ Canviem que al apagar l'ordenador es borrin les imatges dels usuaris
 Creem un fitxer a imatges i resetejem per a comprovar que funcioni el que hem canviat
 <img width="797" height="130" alt="image" src="https://github.com/user-attachments/assets/ede44793-ea56-47d8-a0a6-7a12dfc6e668" />
 
+Prova
+He canviat la carpeta home per "caseta"
+<img width="120" height="49" alt="image" src="https://github.com/user-attachments/assets/0cf05d55-78df-489a-9ef3-badccb8de7b7" />
+Funciona!!
+<img width="330" height="65" alt="image" src="https://github.com/user-attachments/assets/b857a10b-23e5-45ad-88af-1315097f3a05" />
+
 
 
 
 # Còpies de seguretat i automatització de tasques
 # Gestió d'usuaris, grups i permisos
 # Gestió de procesos
+
 
 
 
