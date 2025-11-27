@@ -22,9 +22,37 @@ Desfragmentació
   
 ## Mida del block
 ## Fragmentació interna
+És tot aquell espai que sobra al ocupar un block i no ocuparlo tot
+Per a solucionar la fragmentació interna reduïm l’espai dels block per a que no hagin blocks sense estar ocupats, això redueix el rendiment del ordenador al haver de buscar múltiples blocks per a un fitxer.
+
 ## Fragmentació externa
+la fragmentació externa és quan a mesura que es va treballar en el sistema operatiu els fitxers no es guarden en blocks continus de memoria llavors el rendiment baixa.
+Windows te el desfragmentador de discos 
+Linux té el sistema de fitxers és tan bo que no fa falta pero n’hi ha.
+
+## tipus de sistemes de fitxers
+Hi ha molts però els més coneguts són aquests.(+teoria)
+Windows-> fat32 / ntfs
+Linux-> ext4
+Característiques dels tipus
+-Quin SO pot accedir 
+-Blocks
+-Mida dels arxius
+-Nom dels arxius
+-Rendiment
+-etc.
+
 ## TIpus de formateig
+tipus de formateig
+tenim 3 tipus de formateig 
+-nivell alt -> és ràpid (borra sistema de fitxers)
+-mig nivell -> borra sistema de fitxers i fitxers (mira si hi ha un sector defectuós si hi ha no fa res)
+-baix nivell -> borra sistema de fitxers(si hi ha algun sector defectuós, si hi ha l’intenta reparar)
+
 ## Particions/volums
+particions/Volums
+Una partició ocupa espai a nivell físic.
+Un volum és com una capa d'abstracció que es posa per damunt de les particions.
 
 
 Part practica
@@ -163,6 +191,7 @@ Funciona!!
 # Còpies de seguretat i automatització de tasques
 # Gestió d'usuaris, grups i permisos
 # Gestió de procesos
+
 
 
 
