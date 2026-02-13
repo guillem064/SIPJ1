@@ -104,7 +104,61 @@
 
 #### Samba: permet compartir impressores i fer l’autenticacio a través de un ldap \
 
+#### instal·lem el SAMBA. \
 
+<img width="801" height="41" alt="image" src="https://github.com/user-attachments/assets/e3a08075-75c1-4855-9872-987f20cdedc9" /> \
+
+#### Creem el directori proves i el modifiquem. \
+
+<img width="774" height="524" alt="image" src="https://github.com/user-attachments/assets/6fca67ab-7101-429b-a8f0-bbd84815f36d" /> \
+
+#### Creem els usuaris del SAMBA i els hi posem la contrasenya. \
+
+<img width="640" height="438" alt="image" src="https://github.com/user-attachments/assets/d82f4e64-685b-4c93-a62c-8b8e8fe7a89d" /> \
+
+#### Creem el grup colors i afegim a Roig i Groc. \
+
+<img width="569" height="303" alt="image" src="https://github.com/user-attachments/assets/2a1bda54-4c04-4aeb-901c-783c4fa3affc" /> \
+
+####  Modifiquem el arxiu samba per a escriure els permisos dels usuaris. \
+
+<img width="463" height="290" alt="image" src="https://github.com/user-attachments/assets/311fecec-db21-4b66-8327-399d9a741041" /> \
+
+#### Resetejem i comprovem si funcionen el smbd i el nmbd \
+
+<img width="900" height="524" alt="image" src="https://github.com/user-attachments/assets/1f3991fd-88e8-4ef7-b508-ffd01f67105c" /> \
+
+#### Entrem amb usuari anoním \
+
+<img width="319" height="70" alt="image" src="https://github.com/user-attachments/assets/1368a008-d1b9-422c-aab7-db40db8d8c14" /> \
+
+<img width="510" height="425" alt="image" src="https://github.com/user-attachments/assets/afa7f1f0-760e-4534-8458-b33650b1066a" /> \
+
+<img width="593" height="153" alt="image" src="https://github.com/user-attachments/assets/250ce048-1bd8-4180-a03c-e3651ae5450d" /> \
+
+#### Entrem amb usuari Blau \
+
+<img width="448" height="365" alt="image" src="https://github.com/user-attachments/assets/99cfde3e-bdba-473c-8b77-44c3ae8f77a6" /> \
+
+<img width="545" height="142" alt="image" src="https://github.com/user-attachments/assets/dc393fab-e672-4bf6-acee-80825a86ab87" /> \
+
+#### Entrem amb usuari Groc \
+
+<img width="414" height="331" alt="image" src="https://github.com/user-attachments/assets/eec8ff07-e794-42f3-9950-35a24f5c148b" /> \
+
+#### No pot crear res ja que nomes li hem donat permisos de lectura \
+
+<img width="588" height="175" alt="image" src="https://github.com/user-attachments/assets/df95b81a-4ff3-49fc-a0f5-429ff21d7638" /> \
+
+#### Entrem amb usuari Roig \
+
+<img width="358" height="303" alt="image" src="https://github.com/user-attachments/assets/4c08afd2-0768-4762-8d74-b5408f1447a9" /> \
+
+#### Ens prohibeix l'entrada \
+
+<img width="393" height="316" alt="image" src="https://github.com/user-attachments/assets/0ccae59d-3339-4e9a-8110-dfc40770a30e" /> \
+
+<img width="686" height="205" alt="image" src="https://github.com/user-attachments/assets/0b1d3fea-838e-4ea1-b93a-61e7a495148d" /> \
 
 ## Part 3: Servidor NFS \
 
@@ -158,11 +212,96 @@
 
 <img width="893" height="45" alt="image" src="https://github.com/user-attachments/assets/30f48629-1225-4fc3-8651-f3ff22af97a0" /> \
 
+## Exercicis LDAP \
 
+### EX 1
 
+#### Primer borrem la base de dades actual \
 
+<img width="903" height="475" alt="image" src="https://github.com/user-attachments/assets/9cb7c79e-f39d-4171-8c1a-c37b414df535" /> \
 
+#### Afegim la nova base de daes \
 
+<img width="904" height="226" alt="image" src="https://github.com/user-attachments/assets/aaa86ec1-bce8-45af-b574-e9400060546d" /> \
 
+<img width="454" height="644" alt="image" src="https://github.com/user-attachments/assets/98a8c846-8629-44db-932b-b16d08fe7b0f" /> \
 
+### EX 2 \
 
+<img width="507" height="349" alt="image" src="https://github.com/user-attachments/assets/e88b71f2-284b-4bdb-b917-0e6d5f290630" /> \
+
+### EX 3 \
+
+<img width="361" height="106" alt="image" src="https://github.com/user-attachments/assets/7f1ac1fd-acda-447d-8268-945aa0a29609" /> \
+
+### EX 4 \
+
+<img width="498" height="460" alt="image" src="https://github.com/user-attachments/assets/4b008925-9280-4191-a7fc-52d541c6e626" /> \
+
+<img width="899" height="94" alt="image" src="https://github.com/user-attachments/assets/b35efcb1-5c29-4313-826b-581cfb4d0751" /> \
+
+<img width="901" height="265" alt="image" src="https://github.com/user-attachments/assets/2ee5c21a-6794-447d-8973-a95cdef169f5" /> \
+
+### EX 5 \
+
+<img width="748" height="139" alt="image" src="https://github.com/user-attachments/assets/13b8104a-fc5d-4498-b662-713fbf5ae5e6" /> \
+
+<img width="898" height="54" alt="image" src="https://github.com/user-attachments/assets/2683550e-ab34-4da2-ac4d-1a36cc5ca404" /> \
+
+### EX 6 \
+
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/f9f2bc8e-30bd-415b-955f-5dc68faf90d9" /> \
+
+<img width="894" height="76" alt="image" src="https://github.com/user-attachments/assets/68e467cd-8302-4b3f-9c2b-cce566df63dc" /> \
+
+### EX 7 \
+
+<img width="899" height="105" alt="image" src="https://github.com/user-attachments/assets/5e104a3e-7ea9-4d0f-82b8-61dd9cb41097" /> \
+
+### EX 8 \
+
+<img width="901" height="123" alt="image" src="https://github.com/user-attachments/assets/af7bea1b-5f95-402a-bead-02daddb0788e" /> \
+
+<img width="901" height="101" alt="image" src="https://github.com/user-attachments/assets/ca27a67c-2ce2-41f0-8747-44277e97a184" /> \
+
+#### No es pot borrar el gidNumber si es un objectClass=posixGroup \
+
+### EX 9 \
+
+<img width="737" height="251" alt="image" src="https://github.com/user-attachments/assets/0e9491f1-31d4-4a97-98a5-126e49055ef9" /> \
+
+### EX 10 \
+
+<img width="490" height="125" alt="image" src="https://github.com/user-attachments/assets/fe5b1af8-728d-4738-b87d-0c2330a72620" /> \
+
+<img width="903" height="59" alt="image" src="https://github.com/user-attachments/assets/1c386043-2232-48bd-b975-dcfa77ac505b" /> \
+
+### EX 11 \
+
+<img width="517" height="160" alt="image" src="https://github.com/user-attachments/assets/fa941856-7513-400d-ae8c-d9a4386711ea" /> \
+
+<img width="893" height="54" alt="image" src="https://github.com/user-attachments/assets/8f93aa12-642c-41fd-a440-8d2c7a8ee185" /> \
+
+#### Eliminem la UO  \
+
+<img width="904" height="37" alt="image" src="https://github.com/user-attachments/assets/20edd31f-ec6b-4f61-b2a9-c51c2a89c84c" /> \
+
+<img width="895" height="44" alt="image" src="https://github.com/user-attachments/assets/625576c5-3f89-469e-9206-ccebe454e8d3" /> \
+
+### EX 12 \
+
+<img width="900" height="148" alt="image" src="https://github.com/user-attachments/assets/24c26fe7-1d06-4ed3-be9f-5c169fd3ba98" /> \
+
+### EX 13 \
+
+<img width="905" height="48" alt="image" src="https://github.com/user-attachments/assets/ac2b2b39-8beb-42cb-bc3d-336ab1d442a6" /> \
+
+#### No hi ha cap user amb la UID = 1003 \
+
+### EX 14 \
+
+<img width="901" height="36" alt="image" src="https://github.com/user-attachments/assets/d25a6e14-3c04-4374-8780-8e2dd69de09b" /> \
+
+### EX 15 \
+
+<img width="905" height="372" alt="image" src="https://github.com/user-attachments/assets/42255af5-90dd-4375-8c39-8d4b10bace9f" /> \
