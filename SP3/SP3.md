@@ -305,3 +305,50 @@
 ### EX 15 \
 
 <img width="905" height="372" alt="image" src="https://github.com/user-attachments/assets/42255af5-90dd-4375-8c39-8d4b10bace9f" /> \
+
+
+## NFS WINDOWS 11 \
+
+#### Primer ficarem que la nostra màquina windows tingui el adaptador de xarxa amb la xarxa que utilitzem amb el servidor ubuntu \
+
+<img width="599" height="269" alt="image" src="https://github.com/user-attachments/assets/34375ade-4ff5-4fd4-aa36-03e85f54047a" /> \
+
+#### Una vegada dins buscarem el panel de control per a accedir a ell \
+
+<img width="592" height="551" alt="image" src="https://github.com/user-attachments/assets/fa96db93-b702-4966-902a-ff4f0e6517ab" /> \
+
+#### entrem \
+
+<img width="164" height="85" alt="image" src="https://github.com/user-attachments/assets/22978c84-aaeb-48df-a86e-525e080808d1" /> \
+
+#### al entrar canviem la vista de les icones a petita per poder veure tot \
+
+<img width="269" height="131" alt="image" src="https://github.com/user-attachments/assets/2211fbd3-1e78-47ff-88e6-39e9154bd53b" /> \
+
+#### Entrarem dins de programes i configuracions \
+
+<img width="191" height="30" alt="image" src="https://github.com/user-attachments/assets/651d5a44-e5f2-40dd-b4ad-3005f82c409e" /> \
+
+#### dins farem clic a activar o desactivar les millores de windows \
+
+<img width="233" height="51" alt="image" src="https://github.com/user-attachments/assets/714f97ff-284e-471a-b65b-47680b98fc2b" /> \
+
+#### Seleccionarem el servidor NFS i marcarem les dos opcions \
+
+<img width="233" height="70" alt="image" src="https://github.com/user-attachments/assets/533a7343-2005-4a61-9311-1963b4a0d4d5" /> \
+
+#### li donem a ok i ja estaria \
+
+<img width="120" height="42" alt="image" src="https://github.com/user-attachments/assets/ddd11cbb-4a40-4b70-94a9-0900e52d5dd8" /> \
+
+#### ens sortira una pantalla de carrega i ens demanara de reiniciar el dispositiu \
+
+<img width="746" height="544" alt="image" src="https://github.com/user-attachments/assets/f54d5412-0209-41a4-95bb-93bda4ac53d5" /> \
+
+#### al reiniciar anem a this pc i canviem la ruta de this pc a la ip del nostre ubuntu server NFS \
+
+<img width="361" height="53" alt="image" src="https://github.com/user-attachments/assets/47e171d9-777e-4f54-9ead-c5bfc2f02fd5" /> \
+
+#### Quan ens carregui ens hauria de sortir les nostres carpetes compartides \
+
+<img width="608" height="157" alt="image" src="https://github.com/user-attachments/assets/109667c1-0a93-4414-b4fc-1bb0bf949d2f" /> \
