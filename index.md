@@ -17,4 +17,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius](SP1/sp1.md)  
 ### [Sprint 2: Gestió de la Informació del Sistema i Administracions](SP2/sp2.md)  
-### [Sprint 3: Gestio de dominis i accessos](SP2/sp2.md)  ificial y el Aprendizaje Automático](SP3/SP3.md)  
+### [Sprint 3: Gestio de dominis i accessos](SP3/sp3.md)  
