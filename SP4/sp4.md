@@ -183,7 +183,39 @@ cat /var/log/mireia.log
 <img width="561" height="41" alt="image" src="https://github.com/user-attachments/assets/f9cf3573-cd9c-4cbf-96ec-d9b979a74e09" />
 
 
+# SSH i VNC
 
+
+
+
+
+
+
+
+
+
+
+## VNC
+
+### Primer instal·larem el x11vnc server al servidor
+
+<img width="509" height="24" alt="image" src="https://github.com/user-attachments/assets/e7b9ca93-7abe-4934-8a17-64849cb44097" />
+
+### Seguidament el que farem sera crear una carpeta per al vnc i guardar alli la contrasenya que volem ficar-li (la meva es 1234)
+
+<img width="611" height="61" alt="image" src="https://github.com/user-attachments/assets/b265c6a0-27e6-4035-a66b-f329f45b49bb" />
+
+### Crearem un fitxer per a fer un servei del x11vnc
+
+<img width="599" height="26" alt="image" src="https://github.com/user-attachments/assets/ad35112d-c601-4ab3-953d-c068f4d5a3e9" />
+
+### Dins del fitxer escriurem unes linies que serviran com a descripció del servei, que si no fiquem la contrasenya correcta es reseteji i que es pugui instal·lar a varis usuaris
+
+<img width="743" height="227" alt="image" src="https://github.com/user-attachments/assets/d27bb57e-b4d9-431e-9893-246afc17d11e" />
+
+### enable i start
+
+<img width="1025" height="84" alt="image" src="https://github.com/user-attachments/assets/b762b098-47d3-4808-8ea7-4d5abf0a4959" />
 
 
 
