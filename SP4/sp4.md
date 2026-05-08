@@ -178,14 +178,27 @@
 
 # SSH i VNC
 
+## SSH
 
+### Començarem instal·lant el servidor del SSH a les dues màquines
 
+<img width="539" height="28" alt="image" src="https://github.com/user-attachments/assets/cce8c647-0791-441d-b6a7-0ac50a2e7968" />
 
+<img width="539" height="28" alt="image" src="https://github.com/user-attachments/assets/2aa7b9aa-3288-4fac-bb41-69ed0d27c162" />
 
+### Seguidament l'habilitem i l'engeguem 
 
+<img width="899" height="71" alt="image" src="https://github.com/user-attachments/assets/e4c17ebc-0e15-4b83-89e2-222a5a0a79e5" />
 
+<img width="894" height="81" alt="image" src="https://github.com/user-attachments/assets/d2f9dccf-e8e0-4f37-98f4-083aaf4ff8be" />
 
+### anem al Client i posem la comanda (ssh usuari@IP) -> (ssh guishe@10.0.2.5) aixo ens conectara al servidor ens demanara confirmacio aixi que fiquem yes , la contrasenya, intro i ja estariem conectats a l'altra màquina des de terminal
 
+<img width="732" height="574" alt="image" src="https://github.com/user-attachments/assets/23a37344-0eed-4164-b993-5c7299625742" />
+
+### Fem el mateix que abans pero del servidor al client
+
+<img width="732" height="574" alt="image" src="https://github.com/user-attachments/assets/336342a3-64d1-4b22-adba-371a8e2845bb" />
 
 
 ## VNC
@@ -249,28 +262,3 @@
 ### I ja estariem conectats per VNC al servidor i veuriem la seva pantalla
 
 <img width="1288" height="891" alt="image" src="https://github.com/user-attachments/assets/0a6164fb-3fe7-440f-8290-c1a2561cc12c" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
