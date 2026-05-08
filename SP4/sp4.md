@@ -197,6 +197,8 @@ cat /var/log/mireia.log
 
 ## VNC
 
+## SERVIDOR
+
 ### Primer instal·larem el x11vnc server al servidor
 
 <img width="509" height="24" alt="image" src="https://github.com/user-attachments/assets/e7b9ca93-7abe-4934-8a17-64849cb44097" />
@@ -217,6 +219,28 @@ cat /var/log/mireia.log
 
 <img width="1025" height="84" alt="image" src="https://github.com/user-attachments/assets/b762b098-47d3-4808-8ea7-4d5abf0a4959" />
 
+### Actualitzem els permisos del Firewall 
+
+<img width="378" height="63" alt="image" src="https://github.com/user-attachments/assets/10816a3a-c713-4333-917d-d164b4b14174" />
+
+### Si tenim una màquina virtual que sigui Ubuntu 24.04 o superior haurem de desactivar el Wayland entrant al següent fitxer
+
+<img width="502" height="26" alt="image" src="https://github.com/user-attachments/assets/7c6bc234-d918-474b-a259-8e4011fdc168" />
+
+<img width="741" height="163" alt="image" src="https://github.com/user-attachments/assets/c98ced42-6a72-4d8f-be3a-26faa98c30e3" />
+
+## CLIENT 
+
+### Al client obrirem la terminal i instal·larem un client VNC (Jo utilitzo el TigerVNC)
+
+<img width="593" height="30" alt="image" src="https://github.com/user-attachments/assets/b128a680-d986-4296-8401-b41b62b40c4b" />
+
+
+## SERVIDOR
+
+### Fem un reboot per resetejar tot i que es guardi
+
+<img width="321" height="23" alt="image" src="https://github.com/user-attachments/assets/923c541c-4a75-494f-b175-d04aa408d5d8" />
 
 
 
