@@ -213,7 +213,7 @@ cat /var/log/mireia.log
 
 ### Dins del fitxer escriurem unes linies que serviran com a descripció del servei, que si no fiquem la contrasenya correcta es reseteji i que es pugui instal·lar a varis usuaris
 
-<img width="743" height="227" alt="image" src="https://github.com/user-attachments/assets/d27bb57e-b4d9-431e-9893-246afc17d11e" />
+<img width="769" height="233" alt="image" src="https://github.com/user-attachments/assets/7873df90-15ae-4953-a5ae-f13601e73952" />
 
 ### enable i start
 
@@ -229,18 +229,35 @@ cat /var/log/mireia.log
 
 <img width="741" height="163" alt="image" src="https://github.com/user-attachments/assets/c98ced42-6a72-4d8f-be3a-26faa98c30e3" />
 
+### Fem un reboot per resetejar tot i que es guardi
+
+<img width="321" height="23" alt="image" src="https://github.com/user-attachments/assets/923c541c-4a75-494f-b175-d04aa408d5d8" />
+
 ## CLIENT 
 
 ### Al client obrirem la terminal i instal·larem un client VNC (Jo utilitzo el TigerVNC)
 
 <img width="593" height="30" alt="image" src="https://github.com/user-attachments/assets/b128a680-d986-4296-8401-b41b62b40c4b" />
 
-
 ## SERVIDOR
 
-### Fem un reboot per resetejar tot i que es guardi
+### Ficarem aquesta comanda per obrir el el VNC 
 
-<img width="321" height="23" alt="image" src="https://github.com/user-attachments/assets/923c541c-4a75-494f-b175-d04aa408d5d8" />
+<img width="683" height="22" alt="image" src="https://github.com/user-attachments/assets/de8611b5-641c-4d2a-99f8-eeea0a323950" />
+
+## CLIENT
+
+### Ara fiacrem la següent comanda per a que es pugui conectar al servidor
+
+<img width="436" height="27" alt="image" src="https://github.com/user-attachments/assets/54adea94-fe62-4789-bd06-07431609b58e" />
+
+<img width="416" height="172" alt="image" src="https://github.com/user-attachments/assets/74a10816-7210-4a64-b753-08727ce17e46" />
+
+### I ja estariem conectats per VNC al servidor i veuriem la seva pantalla
+
+<img width="1288" height="891" alt="image" src="https://github.com/user-attachments/assets/0a6164fb-3fe7-440f-8290-c1a2561cc12c" />
+
+
 
 
 
