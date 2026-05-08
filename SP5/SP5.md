@@ -27,11 +27,21 @@
 
 <img width="1035" height="855" alt="image" src="https://github.com/user-attachments/assets/313b91bb-cfb9-4721-8584-2efca7e74d5a" />
 
-<img width="402" height="466" alt="image" src="https://github.com/user-attachments/assets/a872bfc5-f3f2-4cba-9796-966a0c487c1f" />
-
-
-
 ### Activar proteccio del sistema al disc C:
+
+<img width="402" height="466" alt="image" src="https://github.com/user-attachments/assets/15e7a7bf-538c-4e48-a275-8a13063205e3" />
+
+<img width="362" height="120" alt="image" src="https://github.com/user-attachments/assets/a68920f8-7f80-4b7e-b2de-357df01267f8" />
+
+### Crear punt manual
+
+<img width="366" height="64" alt="image" src="https://github.com/user-attachments/assets/35f3c8af-d263-478c-bd78-2f0229d2f8de" />
+
+<img width="405" height="222" alt="image" src="https://github.com/user-attachments/assets/c65b6043-e4ff-456f-bbe2-ca8dfa1fa789" />
+
+<img width="347" height="122" alt="image" src="https://github.com/user-attachments/assets/ee5da3ce-f340-496a-b6b9-433b6c7278cb" />
+
+<img width="347" height="122" alt="image" src="https://github.com/user-attachments/assets/f38eb958-1ba8-494d-9185-62e20ee584d9" />
 
 
 
