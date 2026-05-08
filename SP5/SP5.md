@@ -41,8 +41,9 @@
 
 <img width="347" height="122" alt="image" src="https://github.com/user-attachments/assets/ee5da3ce-f340-496a-b6b9-433b6c7278cb" />
 
-<img width="347" height="122" alt="image" src="https://github.com/user-attachments/assets/f38eb958-1ba8-494d-9185-62e20ee584d9" />
+### Fer un canvi (instal·lar app o configuració)
 
+<img width="623" height="90" alt="image" src="https://github.com/user-attachments/assets/162db241-e9b4-4d90-9cc2-a61782086fa2" />
 
 
 
