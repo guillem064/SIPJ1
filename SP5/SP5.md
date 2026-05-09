@@ -45,6 +45,23 @@
 
 <img width="623" height="90" alt="image" src="https://github.com/user-attachments/assets/162db241-e9b4-4d90-9cc2-a61782086fa2" />
 
+<img width="382" height="85" alt="image" src="https://github.com/user-attachments/assets/b67ed68d-080b-44c2-9286-cbb4c2d60dd7" />
+
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/90b2dfaf-37e5-456a-8a7b-fe5addff163d" />
+
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/f25ec210-8fc7-401a-8565-424e8ea2821f" />
+
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/52028747-01d1-454a-8475-d0eba2559101" />
+
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/1c72b173-28d2-4fa3-97bb-3cab3f00aa01" />
+
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/edb61d92-6d63-4ae5-9f0f-74581bb23915" />
+
+### Restaurar i comprovar
+
+<img width="400" height="151" alt="image" src="https://github.com/user-attachments/assets/517cd0e5-2033-45af-ac88-e33b427ae7a9" />
+
+<img width="612" height="64" alt="image" src="https://github.com/user-attachments/assets/7a9754a6-1cb4-4e85-ad1c-dd5b45ffd83a" />
 
 
 ## Fase 3 - Llicències de Windows
