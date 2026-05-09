@@ -66,7 +66,28 @@
 
 ## Fase 3 - Llicències de Windows
 
+### Obrir configuració --> Actualització i seguretat --> Activació
 
+<img width="44" height="51" alt="image" src="https://github.com/user-attachments/assets/f16aedf7-4809-4371-b154-4e50478a6209" />
+
+<img width="246" height="80" alt="image" src="https://github.com/user-attachments/assets/465817d5-e4f7-4a2d-9877-6b73147e748c" />
+
+<img width="145" height="49" alt="image" src="https://github.com/user-attachments/assets/8d4d4fa8-2a54-4365-9976-9f7de2886669" />
+
+### Veure si Windows està activat
+
+<img width="450" height="445" alt="image" src="https://github.com/user-attachments/assets/5f2aa9d6-dd74-447b-9f3a-52939c80a62b" />
+
+### Executar al cmd: slmg /xpr
+
+<img width="718" height="342" alt="image" src="https://github.com/user-attachments/assets/66ecd2a7-62a0-434d-ba45-134918647cb8" />
+
+### Esbrinar llicenciament Windows i explicar breument
+
+
+
+
+### Consultar preu aproximat d'una llicència Windows
 
 
 ## Fase 4 - Gestor d'arrencada
