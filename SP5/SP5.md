@@ -292,18 +292,38 @@
 
 #### Indicar què mostra ip config
 
+#### El ipconfig mostrar la configuracio de la xarxa a la que estas conectat mostrant aixi totes les teves dades
 
 #### Indicar què mostra systeminfo
+
+#### el system info te mostra tota la informacio del teu sistema tant com els components com les especificacions del sistema.
+
 
 ## Fase 7 - Instal·lació d'aplicacions
 
 ### Descarregar un programa des del navegador
 
+<img width="239" height="88" alt="image" src="https://github.com/user-attachments/assets/0be2b77d-5c00-4bb0-b6ff-0614f2a3f992" />
+
+<img width="158" height="65" alt="image" src="https://github.com/user-attachments/assets/156fab50-0306-423d-a06f-1b73a9532401" />
+
 ### Instal·lar-lo seguint l'assistent
+
+<img width="459" height="310" alt="image" src="https://github.com/user-attachments/assets/c205e2f0-3dad-42fc-b3cd-97154f4e7df5" />
+
+<img width="487" height="458" alt="image" src="https://github.com/user-attachments/assets/2f08ff27-75cd-4df9-b2c4-035f78630696" />
+
+<img width="487" height="458" alt="image" src="https://github.com/user-attachments/assets/3452c001-60cb-4b6d-9868-7705338d67c9" />
+
+<img width="487" height="458" alt="image" src="https://github.com/user-attachments/assets/04ac63ea-0f65-4a8e-bf49-fe7dc5c638c1" />
 
 ### Obrir-lo i comporvar que funciona
 
+<img width="159" height="29" alt="image" src="https://github.com/user-attachments/assets/847668f8-f8b5-4bcb-b81b-8752d00902f8" />
+
 ### Instal·lar una aplicació des de Microsoft Store
+
+<img width="55" height="52" alt="image" src="https://github.com/user-attachments/assets/0f757ca8-1614-4fc3-86fa-c3586e1eb01a" />
 
 ### Obrir-la i comprovar funcionament
 
