@@ -84,13 +84,84 @@
 
 ### Esbrinar llicenciament Windows i explicar breument
 
+#### La nostra Llicencia es la Enterprise la qual es una versio avançada de Windows per a empreses i inclou funcionalitats extra com seguretat avançada, control de dispositius i virutalització, apart només es pot aconseguir via llicència per volum.
 
+### Exemples de llicències 
 
+#### LLicència Retail (FPP - Full Packaged Product) Es ideal per a tranferir-se d'ordenador en ordenador incluo suport microsoft però es la més cara.
+
+#### LLicència d'avaluació (Trial) Versio temporal de prova Windows, funciona durant un periode de temps limitat i després cal activar-la amb una llicència real.
 
 ### Consultar preu aproximat d'una llicència Windows
 
+#### El preu que he trobat per pagines amb preus rebaixats
+
+<img width="1133" height="476" alt="image" src="https://github.com/user-attachments/assets/817c0f9d-36ae-4a9b-a798-099ae293e666" />
 
 ## Fase 4 - Gestor d'arrencada
+
+### Obrir Command Prompt com admin
+
+<img width="305" height="251" alt="image" src="https://github.com/user-attachments/assets/298a7b1f-2db0-41c4-9f1c-97a48cabdc5e" />
+
+#### Li donem que si
+
+<img width="462" height="325" alt="image" src="https://github.com/user-attachments/assets/19d4c46e-158f-4fa0-b869-340b46bf46d6" />
+
+### Executar bcdedit
+
+<img width="225" height="39" alt="image" src="https://github.com/user-attachments/assets/5383b429-b423-4654-8238-a1ca414352d0" />
+
+### Identificar els blocs 
+### - Administrador de arranque de Windows (Boot Manager)
+
+<img width="513" height="209" alt="image" src="https://github.com/user-attachments/assets/6637c0d7-5183-4020-8ca5-b703de2500ed" />
+
+### - Cargador de arranque de Windows (Boot Loader)
+
+<img width="514" height="289" alt="image" src="https://github.com/user-attachments/assets/eb88f8f3-ef66-4092-b9dd-00e81baf53da" />
+
+### Interpretar dades concretes
+
+### Boot manager
+
+#### El default {current} fa referencia al gestor d'arrencada que s'engegara en aquell moment i el {current} fa referencia a la clau del gestor que es més llarga, també pots canviar el {current} per {default} que el que canviara sera el gestor que al arrencar tu hauras de ficar.
+
+<img width="283" height="51" alt="image" src="https://github.com/user-attachments/assets/004d65bc-2baf-4932-9baa-d0c1996142f9" />
+
+#### El timeout es el temps que tens abans de que el gestor arranqui amb l'opcio per defecte
+
+<img width="236" height="43" alt="image" src="https://github.com/user-attachments/assets/aadf51b8-ccc1-4446-8dfa-2a12e45ca70e" />
+
+### Boot loader
+
+#### El device ens diu quina particio està instal·lat el nostre windows al meu ens diu que està a la partició C si tinguessim un dualboot per exemple am una altra particio surtiria el nom d'aquella partició
+
+#### El path ens diu el camí de fitxers on esta el carregador del sistema
+
+#### El description ens diu quin sistema operatiu tenim
+
+<img width="453" height="60" alt="image" src="https://github.com/user-attachments/assets/b8d94f28-7370-4dab-b5a9-4640d5e2f2b2" />
+
+### Respondre preguntes curtes
+
+#### Quin sistema s'esta arrencant?
+
+<img width="504" height="41" alt="image" src="https://github.com/user-attachments/assets/e1cd711a-6e6f-428c-aef5-d0d2f4d998ec" />
+
+#### A quin disc o partició està instal·lat?
+
+<img width="291" height="19" alt="image" src="https://github.com/user-attachments/assets/846c0413-0989-4335-ac0f-c4bea546cd35" />
+
+#### Quant temps espera abans d'arrencar?
+
+<img width="218" height="25" alt="image" src="https://github.com/user-attachments/assets/c6f8d33b-6848-4118-bc4d-b9418fe070ce" />
+
+#### Quin fitxer inicia windows?
+
+<img width="430" height="26" alt="image" src="https://github.com/user-attachments/assets/43c36a6e-4602-4660-9fc1-b21134eed7d4" />
+
+### Interpretació final
 
 
 
