@@ -236,12 +236,64 @@
 
 ### Comandes útils del sistema
 
+#### tasklist
+
+<img width="553" height="693" alt="image" src="https://github.com/user-attachments/assets/53649968-72d4-4cf7-8e10-93b90ddc1fec" />
+
+#### taskkill /IM OneDrive.exe /F
+
+<img width="437" height="35" alt="image" src="https://github.com/user-attachments/assets/02ce280c-d9aa-4154-896e-66507c352669" />
+
+#### systeminfo
+
+<img width="845" height="681" alt="image" src="https://github.com/user-attachments/assets/3919b4d8-66e0-49d4-bd43-e691a3bd4742" />
+
+#### hostname
+
+<img width="270" height="35" alt="image" src="https://github.com/user-attachments/assets/0dff6be9-c958-4a5f-8150-0ae3abe69c3c" />
+
+#### whoami
+
+<img width="270" height="35" alt="image" src="https://github.com/user-attachments/assets/efd16ab7-d7b2-4a9e-a6f1-de381e16e6d4" />
+
 ### Comandes de xarxa
+
+#### ipconfig
+
+<img width="475" height="193" alt="image" src="https://github.com/user-attachments/assets/83086538-88e8-4c72-81c0-77531d0f3844" />
+
+#### ping google.com
+
+<img width="475" height="193" alt="image" src="https://github.com/user-attachments/assets/c7a9c69d-170d-4a0f-992e-f4da00ce70a9" />
+
+#### netstat -an
+
+<img width="484" height="692" alt="image" src="https://github.com/user-attachments/assets/97ac444f-624c-4990-9e0d-2241834ab894" />
 
 ### Comandes interessants
 
+#### tree
+
+<img width="314" height="74" alt="image" src="https://github.com/user-attachments/assets/7ddf415c-fb16-448d-ac8d-6e36dce29a08" />
+
+#### cls
+
+<img width="454" height="277" alt="image" src="https://github.com/user-attachments/assets/bf704066-43ca-45ee-93c3-aafaea09e955" />
+
+#### shutdown /s /t 0
+
+<img width="454" height="277" alt="image" src="https://github.com/user-attachments/assets/630019c8-ab75-4eb2-8fa9-de534ce54708" />
+
 ### Mini interpretació
 
+#### Indicar què mostra tasklist
+
+#### Tasklist mostra el processos sctius del moment on tu pots tancar-los utilitzant el taskkill i veure el seu numero de proces
+
+#### Indicar què mostra ip config
+
+
+#### Indicar què mostra systeminfo
 
 ## Fase 7 - Instal·lació d'aplicacions
 
