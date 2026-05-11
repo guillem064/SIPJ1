@@ -349,6 +349,7 @@
 
 ### La tenim per a descarregar però observem com el .zip ja no te el icono del winrar
 
+<img width="624" height="145" alt="image" src="https://github.com/user-attachments/assets/2e101338-c81e-47a4-aca8-a67ef4ec1f6c" />
 
 
 
