@@ -163,23 +163,101 @@
 
 ### Interpretació final
 
+### Qui decideix l'arrencada
 
+#### L'arrencada la decideix el Boot Manager el qual llegeix el disc i busca varios gestors d'arrencada i el usuari selecciona el que vol.
 
+### Qui carrega el sistema?
+
+#### El Boot Loader carrega el sistema que el boot manager haigui triat.
 
 ## Fase 5 - Xarxa bàsica
 
+### Obrir configuracio xarxa
 
+<img width="33" height="51" alt="image" src="https://github.com/user-attachments/assets/39debaf9-549c-418b-ae4d-8913281c6f2c" />
 
+<img width="191" height="79" alt="image" src="https://github.com/user-attachments/assets/0683703a-8899-42d1-8b37-c98d3b3f5d9b" />
 
+<img width="799" height="634" alt="image" src="https://github.com/user-attachments/assets/da75799a-9033-4687-ab53-4b93226d6da7" />
+
+<img width="799" height="634" alt="image" src="https://github.com/user-attachments/assets/dccb2274-eded-498c-a96f-6e8294966257" />
+
+### Consultar IP amb ipconfig
+
+<img width="543" height="217" alt="image" src="https://github.com/user-attachments/assets/e0edbb89-40d9-4d9b-843a-d02db51348b2" />
+
+### Configurar IP dinámica (DHCP)
+
+<img width="400" height="194" alt="image" src="https://github.com/user-attachments/assets/99d456e4-4f90-4447-803a-3eccaa8a5ebc" />
+
+### Configurar IP fixa (manual)
+
+<img width="380" height="621" alt="image" src="https://github.com/user-attachments/assets/bebab619-e9ab-42a1-a8fb-d0dc0929b4a3" />
+
+### Comprovar connexió amb ping google.com
+
+<img width="542" height="228" alt="image" src="https://github.com/user-attachments/assets/029e1d1b-2f8b-4333-a453-c8535c4a00be" />
 
 ## Fase 6 - Comandes generals
 
+### Obrir PowerShell
 
+<img width="142" height="43" alt="image" src="https://github.com/user-attachments/assets/981dbffd-a0dc-4d74-8516-c1dbfc97fdc3" />
+
+<img width="420" height="233" alt="image" src="https://github.com/user-attachments/assets/83a26dc6-467d-4258-8fba-60cc43e4bf02" />
+
+### Diferenciar cmd i PowerShell
+
+#### a simple vista no hi ha molta diferencia però realment es més potent la PowerShell ja que funciona amb objectes i la cmd nomes retorna text pla, la powershell pots automatitzar coses i necessites més conexement sobre programació.
+<img width="482" height="137" alt="image" src="https://github.com/user-attachments/assets/6d8f9985-7229-4a27-aa45-ea4c5926dd27" />
+
+### Comandes bàsiques
+
+#### dir --> permet mirar els fitxers del directori
+
+<img width="446" height="322" alt="image" src="https://github.com/user-attachments/assets/ee1219d2-05b9-41f6-af18-122354c73cab" />
+
+#### cd --> permet entrar a directoris
+
+<img width="481" height="202" alt="image" src="https://github.com/user-attachments/assets/476f3915-41a6-44a6-a1e7-4074db4b697a" />
+
+#### mkdir prova --> crea una carpeta amb el nom prova
+
+<img width="391" height="150" alt="image" src="https://github.com/user-attachments/assets/0b071cb3-0717-4779-97d5-e607bd4bda7e" />
+
+#### echo hola > fitxer.txt  --> Creem un document de text anomenat fitxer amb hola escrit a dins
+
+<img width="450" height="91" alt="image" src="https://github.com/user-attachments/assets/2475808d-c49f-42ac-b0cc-4c54a8d056de" />
+
+### del fitxer.txt --> Hem esborrat el document fitxer.txt 
+
+<img width="500" height="176" alt="image" src="https://github.com/user-attachments/assets/ffbe715d-a254-422f-9fcd-9c3217ad196b" />
+
+### Comandes útils del sistema
+
+### Comandes de xarxa
+
+### Comandes interessants
+
+### Mini interpretació
 
 
 ## Fase 7 - Instal·lació d'aplicacions
 
+### Descarregar un programa des del navegador
 
+### Instal·lar-lo seguint l'assistent
+
+### Obrir-lo i comporvar que funciona
+
+### Instal·lar una aplicació des de Microsoft Store
+
+### Obrir-la i comprovar funcionament
+
+### Desinstal·lar una aplicació
+
+### Verificació 
 
 
 
