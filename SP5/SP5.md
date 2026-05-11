@@ -327,9 +327,29 @@
 
 ### Obrir-la i comprovar funcionament
 
+### Aquest punt no el puc fer ja que he estat actualitzant la Microsoft Storie durant més d'una hora i no ha funcionat
+
+<img width="358" height="293" alt="image" src="https://github.com/user-attachments/assets/7435f369-466d-4a83-9341-f7206dccf447" />
+
 ### Desinstal·lar una aplicació
 
+<img width="413" height="244" alt="image" src="https://github.com/user-attachments/assets/b0c8c38d-ead5-457a-ab1e-9322f8e09aa1" />
+
+<img width="240" height="91" alt="image" src="https://github.com/user-attachments/assets/652475b9-5ddd-4711-95cd-4a8bc1846006" />
+
+<img width="783" height="319" alt="image" src="https://github.com/user-attachments/assets/b11d07e3-5964-44c3-a4fe-63786014b600" />
+
+<img width="464" height="317" alt="image" src="https://github.com/user-attachments/assets/da38c424-cb19-4704-b595-6b6ed49f9490" />
+
+<img width="464" height="317" alt="image" src="https://github.com/user-attachments/assets/680e58b0-0bc7-4c0a-8380-c826cdc9f37c" />
+
 ### Verificació 
+
+<img width="624" height="145" alt="image" src="https://github.com/user-attachments/assets/b77e0e3e-60fc-4b7e-b3d4-0b3619c491a1" />
+
+### La tenim per a descarregar però observem com el .zip ja no te el icono del winrar
+
+
 
 
 
