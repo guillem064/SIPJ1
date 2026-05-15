@@ -16,13 +16,75 @@
 
 <img width="723" height="449" alt="image" src="https://github.com/user-attachments/assets/cc73a867-9fae-47f0-87e6-96f648e983a4" />
 
-Cliquem a choose i ja el tindriem creat i seleccionat per a la màquina virtual
+#### Cliquem a choose i ja el tindriem creat i seleccionat per a la màquina virtual
 
 <img width="918" height="422" alt="image" src="https://github.com/user-attachments/assets/a8c2c7ef-404d-4441-8fb7-9991b9286c9b" />
 
+<img width="279" height="133" alt="image" src="https://github.com/user-attachments/assets/d1beb286-02aa-4011-a67a-2a8780b1a5e2" />
+
 ### Iniciar Windows i obrir Gestió de discs
+
+<img width="356" height="377" alt="image" src="https://github.com/user-attachments/assets/88f5cffd-cbda-4a9c-aab2-d0dcf99ff239" />
+
+<img width="206" height="46" alt="image" src="https://github.com/user-attachments/assets/141ebe1a-347f-42be-a661-92f5e76d011d" />
+
+<img width="585" height="610" alt="image" src="https://github.com/user-attachments/assets/58f43f8b-f751-4155-9c13-1eef6c87ff9b" />
+
 ### Inicialitzar el disc, crear dues particions: una anomenada Dades i una en FAT32 anomenada Portable
+
+<img width="539" height="106" alt="image" src="https://github.com/user-attachments/assets/331f05d3-5b1b-4df6-b36a-65e683b88a64" />
+
+<img width="501" height="392" alt="image" src="https://github.com/user-attachments/assets/21d2eac1-3729-449e-9cef-a3675859b695" />
+
+<img width="501" height="392" alt="image" src="https://github.com/user-attachments/assets/026a3cae-f108-4196-8b21-8b302f28add1" />
+
+<img width="501" height="392" alt="image" src="https://github.com/user-attachments/assets/fa7a284d-86cf-439a-802c-f2cadda6a436" />
+
+<img width="501" height="392" alt="image" src="https://github.com/user-attachments/assets/8ecd4fae-59a4-4d8a-858e-19007c74b5d6" />
+
+<img width="501" height="392" alt="image" src="https://github.com/user-attachments/assets/736b6523-95f6-458e-add3-a27d22a36178" />
+
+<img width="571" height="109" alt="image" src="https://github.com/user-attachments/assets/3fb88683-20dc-4733-900e-884054ddd63c" />
+
+#### Ara anem a fer l'altra partició
+
+<img width="632" height="106" alt="image" src="https://github.com/user-attachments/assets/a64e5e99-3eba-487b-b385-1a03b883f347" />
+
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/8809e189-e37c-4f44-95dc-b86ad6fddf43" />
+
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/5b0a1958-aaec-445b-a4f7-d58aeac816f1" />
+
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/c1c84f6d-9439-42d1-91c9-bae280e7ada5" />
+
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/7be242b2-3d8a-49b9-9bda-ca71e4b559e2" />
+
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/81c444e6-a12b-41d3-80bc-a0c2452b82e6" />
+
+#### Ja tindriem les 2 particions fetes amb les lletres asignades i amb el nom corresponent
+
+<img width="569" height="100" alt="image" src="https://github.com/user-attachments/assets/a9f8d6b8-0a9e-4c24-a15d-1d18b3b249d2" />
+
 ### Assignar lletres i comprovar amb diskpart la configuració
+
+#### Premem Windows + R i posem diskpart i li donem a enter o aceptar per a obrir la terminal de diskpart
+
+<img width="407" height="220" alt="image" src="https://github.com/user-attachments/assets/8e4aabcb-6b61-4929-b02d-22bafb85016d" />
+
+#### Amb list disk podem veure la llista dels discos que tenim a la màquina virtual.
+
+<img width="420" height="119" alt="image" src="https://github.com/user-attachments/assets/a6ccf4ef-7ea1-4a45-9a20-b42c970c0e55" />
+
+#### Seleccionem el disc recentment creat per a veure la seva configuració
+
+<img width="356" height="71" alt="image" src="https://github.com/user-attachments/assets/591e167c-1d18-48ca-87ea-a66b8374a7d2" />
+
+#### Amb list partition veiem les particions del disc seleccionat anteriorment
+
+<img width="485" height="113" alt="image" src="https://github.com/user-attachments/assets/b42245b4-8918-47a4-a6ec-db15c212eb6d" />
+
+#### Per finalitzar amb el list volume podem veure les caracteristiques de tots els volums que tenim a la nostra màquina virtual
+
+<img width="677" height="147" alt="image" src="https://github.com/user-attachments/assets/0774da68-63d1-4f03-a721-e940e62d5328" />
 
 ## Fase 2 – Quotes i usuaris
 ### Activar quotes de disc a la partició Dades (NTFS)
