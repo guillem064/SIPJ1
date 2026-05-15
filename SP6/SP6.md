@@ -1,5 +1,16 @@
 ## Fase 1 – Preparació del sistema
+
 ### Afegir un nou disc virtual a la màquina virtual
+
+<img width="102" height="73" alt="image" src="https://github.com/user-attachments/assets/6a054001-1eee-401c-8e20-5a7a23beb857" />
+
+<img width="179" height="45" alt="image" src="https://github.com/user-attachments/assets/caf4aafa-2275-432e-afd8-0ea6dd2107fb" />
+
+<img width="375" height="228" alt="image" src="https://github.com/user-attachments/assets/33167a0f-f7bb-4e9f-9354-8574fb4965b1" />
+
+<img width="71" height="77" alt="image" src="https://github.com/user-attachments/assets/bf6c7e11-5704-40d2-8a8a-6c019b3cd177" />
+
+
 ### Iniciar Windows i obrir Gestió de discs
 ### Inicialitzar el disc, crear dues particions: una anomenada Dades i una en FAT32 anomenada Portable
 ### Assignar lletres i comprovar amb diskpart la configuració
