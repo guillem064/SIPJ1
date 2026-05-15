@@ -8,8 +8,17 @@
 
 <img width="375" height="228" alt="image" src="https://github.com/user-attachments/assets/33167a0f-f7bb-4e9f-9354-8574fb4965b1" />
 
-<img width="71" height="77" alt="image" src="https://github.com/user-attachments/assets/bf6c7e11-5704-40d2-8a8a-6c019b3cd177" />
+<img width="53" height="71" alt="image" src="https://github.com/user-attachments/assets/ca40ddd1-efd2-4b3c-9dca-6437fb0216a7" />
 
+<img width="723" height="449" alt="image" src="https://github.com/user-attachments/assets/ef4c6271-e36e-40db-a737-006066bb3d38" />
+
+<img width="723" height="449" alt="image" src="https://github.com/user-attachments/assets/5b72e4b4-2b26-4636-ab92-c6e9e96ce587" />
+
+<img width="723" height="449" alt="image" src="https://github.com/user-attachments/assets/cc73a867-9fae-47f0-87e6-96f648e983a4" />
+
+Cliquem a choose i ja el tindriem creat i seleccionat per a la màquina virtual
+
+<img width="918" height="422" alt="image" src="https://github.com/user-attachments/assets/a8c2c7ef-404d-4441-8fb7-9991b9286c9b" />
 
 ### Iniciar Windows i obrir Gestió de discs
 ### Inicialitzar el disc, crear dues particions: una anomenada Dades i una en FAT32 anomenada Portable
