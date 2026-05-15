@@ -87,9 +87,35 @@
 <img width="677" height="147" alt="image" src="https://github.com/user-attachments/assets/0774da68-63d1-4f03-a721-e940e62d5328" />
 
 ## Fase 2 – Quotes i usuaris
+
 ### Activar quotes de disc a la partició Dades (NTFS)
+
+<img width="410" height="399" alt="image" src="https://github.com/user-attachments/assets/f71ad42f-4625-4526-92de-03c1676ae28b" />
+
+<img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/b0aa8474-92de-4bd0-a0b4-e78ffdfded20" />
+
+<img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/99bbaa8f-4e16-4d61-9fae-46a4c5ddc8d6" />
+
 ### Establir límit de 300 MB per usuari, amb notificació d’advertència
+
+<img width="360" height="451" alt="image" src="https://github.com/user-attachments/assets/bbbdc21b-fede-46fe-ae04-9a63ce64f327" />
+
+<img width="260" height="39" alt="image" src="https://github.com/user-attachments/assets/4448b106-3590-440a-a5eb-2ff0a20b0256" />
+
 ### Crear dos usuaris locals: alumne1 i alumne2
+
+#### Executem la terminal com administradors
+
+<img width="292" height="270" alt="image" src="https://github.com/user-attachments/assets/6e3fd360-39d7-4548-b739-fd6c14684115" />
+
+#### Amb aquestes dues comandes creem els dos usuaris nous
+
+<img width="400" height="119" alt="image" src="https://github.com/user-attachments/assets/1ca24952-179c-4d8c-a61d-b154b2e6ba34" />
+
+#### Amb aquesta altra comanda podem veure els usuaris que tenim i les seves caracteristiques
+
+<img width="516" height="168" alt="image" src="https://github.com/user-attachments/assets/d898c4d0-0b98-4cc7-a194-14df75320f6d" />
+
 ### Afegir-los a un grup nou anomenat Limitats
 ### Provar la còpia de fitxers dins Dades per veure com actuen les quotes (superar límit)
 
